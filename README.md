@@ -60,3 +60,9 @@ Det här projektet syftar till att visa hur man använder Git och GitHub för at
 ## Länkar
 
 - [GitHub Repository](https://github.com/jhelgodt)
+
+## 💡 Git Tips och Tricks
+
+- Använd `git status` ofta för att hålla koll på dina ändringar.
+- Skapa alias för vanliga kommandon som `git st` för `git status`.
+- Använd `git log --oneline` för en snyggare loggöversikt.
